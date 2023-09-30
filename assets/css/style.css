@@ -1798,3 +1798,16 @@ textarea.form-input::-webkit-resizer {
     max-width: 700px;
   }
 }
+
+/* Footer*/
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: azure;
+  font-size: 12px;
+}
+
+.footer-content {
+  text-align: center;
+}
